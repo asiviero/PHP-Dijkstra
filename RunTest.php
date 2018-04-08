@@ -1,10 +1,12 @@
 <?php
 
+use Dijkstra\Graph;
+
 /*
  * Author: doug@neverfear.org
  */
 
-require("Dijkstra.php");
+require("vendor/autoload.php");
 
 function runTest() {
 	$g = new Graph();

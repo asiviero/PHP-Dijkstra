@@ -1,0 +1,10 @@
+{
+    "name": "asiviero/php-dijkstra",
+    "type": "module",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dijkstra\\": "src/"
+        }
+    }
+}
